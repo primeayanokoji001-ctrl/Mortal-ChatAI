@@ -1,8 +1,8 @@
 {
   "name": "Mortal ChatAI",
   "short_name": "ChatAI",
-  "start_url": "https://primeayanokoji001-ctrl.github.io/Mortal-ChatAI/",
-  "scope": "https://primeayanokoji001-ctrl.github.io/Mortal-ChatAI/",
+  "start_url": "/Mortal-ChatAI/",
+  "scope": "/Mortal-ChatAI/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#8b5cf6",
